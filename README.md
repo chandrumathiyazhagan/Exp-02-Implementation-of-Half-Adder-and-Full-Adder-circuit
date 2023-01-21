@@ -81,7 +81,8 @@ FULL ADDER
 ### TRUTH TABLE:
 HALF ADDER
 
-![image](https://user-images.githubusercontent.com/119393023/213873266-1e8203f9-a2e0-4789-9491-bda016abfd16.png)
+![image](https://user-images.githubusercontent.com/119393023/213874082-ffe87551-6f16-4f13-9672-56a3eca9553e.png)
+
 
 FULL ADDER
 
